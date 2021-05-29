@@ -1,6 +1,5 @@
 ### Hi there 👋, my username is dx
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I am a random github user
 
 Im leaking some randoms things 
 
